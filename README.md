@@ -15,6 +15,5 @@ With AWS, you can:
 - And much more!
 
 ## Contributing
-
 We welcome contributions to this AWS repository! Whether you want to add new AWS-related content, fix issues, or improve existing resources, your contributions are greatly appreciated. 
 
